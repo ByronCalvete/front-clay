@@ -1,0 +1,34 @@
+{
+  "motorbikes": [
+    {
+      "id": 1,
+      "name": "Andrés Perez",
+      "date": "2019-05-30T17:30:31.098Z",
+      "active": true,
+      "phone": "11 1111 1111",
+      "price": "ARS $200",
+      "role": "Eventual",
+      "licensePlate": "A123BCD"
+    },
+    {
+      "id": 2,
+      "name": "Juan Díaz",
+      "date": "2019-05-30T18:39:34.091Z",
+      "active": false,
+      "phone": "22 2222 2222",
+      "price": "ARS $230",
+      "role": "Fijo",
+      "licensePlate": "E345FGH"
+    },
+    {
+      "id": 3,
+      "name": "Camila Rodríguez",
+      "date": "2019-05-30T19:20:14.298Z",
+      "active": true,
+      "phone": "33 3333 3333",
+      "price": "ARS $180",
+      "role": "Por pedido",
+      "licensePlate": "I678JKL"
+    }
+  ]
+}
